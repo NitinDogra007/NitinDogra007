@@ -19,17 +19,10 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitindogra007&show_icons=true&locale=en&layout=compact" alt="nitindogra007" /></p>
-
-<br>
-<br>
-<br>
-<br>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitindogra007&show_icons=true&locale=en&layout=compact" alt="nitindogra007" />
+ <br>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitindogra007&show_icons=true&locale=en" alt="nitindogra007" /></p>
-
-<br>
-<br>
-<br>
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitindogra007&" alt="nitindogra007" /></p>
