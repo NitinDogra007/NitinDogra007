@@ -31,5 +31,5 @@
 
 ---
 <details>
- <summary><h3>👨‍💻 Nitin's Coding Journey</h3></summary>
+ <summary><h3>🌟 Nitin's Coding Journey</h3></summary>
    To be made
