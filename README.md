@@ -4,7 +4,7 @@
 **`Digital Craftsman (Developer)`**
 
 <h3 align="center">I am a third year Bachelor of Software Engineering (Honours) Student at Deakin University. I plan on becoming a front end developer and use my skils and creativity to build real world projects.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn4.iconfinder.com/data/icons/design-development-16/1750/Computer_Language-512.png">
+<img align="right" alt="Coding" width="35000" src="https://cdn4.iconfinder.com/data/icons/design-development-16/1750/Computer_Language-512.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitindogra007&label=Profile%20views&color=0e75b6&style=flat" alt="nitindogra007" /> </p>
 
