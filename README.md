@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitindogra007&label=Profile%20views&color=0e75b6&style=flat" alt="nitindogra007" /> </p>
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at [To be Made](portfolio link)
 
 - 📫 How to reach me **nitindogra72@outlook.com**
 
