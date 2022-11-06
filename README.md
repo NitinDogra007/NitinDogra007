@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [To be Made](portfolio link)
 
-- 📫 How to reach me **nitindogra72@outlook.com**
+- 📫 How to reach me | Email: **nitindogra72@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
