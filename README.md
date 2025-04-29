@@ -22,14 +22,3 @@
  </a> </p>
  
  ---
-<div class="stats" align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitindogra007&show_icons=true&locale=en&theme=radical" alt="nitindogra007" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitindogra007&theme=radical" alt="nitindogra007" /></p>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitindogra007&show_icons=true&locale=en&layout=compact&theme=radical" alt="nitindogra007" />
-</p>
-</div>
-
----
-<details>
- <summary><h3>🌟 Nitin's Coding Journey</h3></summary>
-   To be made
