@@ -3,12 +3,12 @@
 
 **`Digital Craftsman (Developer)`**
 
-<h3 align="center">I am a third year Bachelor of Software Engineering (Honours) Student at Deakin University. I plan on becoming a software engineer and use my skills and creativity to build real world projects.</h3>
+<h3 align="center">I am a graduate with a Bachelor of Software Engineering (Honours) from Deakin University. I aim to become a software engineer and apply my skills and creativity to develop real-world projects.</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn4.iconfinder.com/data/icons/design-development-16/1750/Computer_Language-512.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitindogra007&label=Profile%20views&color=0e75b6&style=flat" alt="nitindogra007" /> </p>
 
-- 👨‍💻 All of my projects are available at [To be Made](portfolio link)
+- 👨‍💻 All of my projects are available at [Portfolio](https://nitindogra.netlify.app/)
 
 - 📫 How to reach me | Email: **nitindogra72@outlook.com**
 
